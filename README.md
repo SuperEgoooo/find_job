@@ -3,6 +3,6 @@
 ## 安装依赖包
 pip3.9 install setuptools
 
-pip3.9 install packaging
+python3 -m pip install packaging
 
-pip3.9 install pandas dash
+python3 -m pip install pandas dash
